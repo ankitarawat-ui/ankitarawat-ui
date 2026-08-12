@@ -3,10 +3,11 @@
 ### 🚀 Non-IT → IT Journey | Aspiring Data Analyst  
 I started my career with an English Honours background, but my passion for analysis, problem-solving, and data visualization inspired me to move into the world of **Data & Business Intelligence**.  
 Today, I’m actively learning, building projects, and strengthening my skills in
-**Excel, SQL, Power BI, and Python**.
+**Excel,Google Sheet(Basic), SQL, Power BI, and Python(Basics)**.
 
 ## 🛠 Skills & Tools  
-- **Excel** – Data cleaning, Pivot Tables, Dashboards  
+- **Excel** – Data cleaning, Data Formatting , Pivot Tables, Dashboards
+- **Google sheet** - Data cleaning, Data formatting , Pivot Tables, Dashboards 
 - **SQL** – Joins, CTEs, Subqueries, Window Functions  
 - **Power BI** – Data modeling, DAX basics, Interactive dashboards  
 - **Python (Basic)** – Data manipulation & analysis fundamentals  
